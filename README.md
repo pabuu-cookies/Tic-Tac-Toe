@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+This is a simple Tic Tac Toe game that allows players to play against the computer. The game can be played on a grid of any size (N*N, where N is odd). The computer determines its moves using various strategies, making it a challenging opponent. The user interface is implemented using the Tkinter library, providing a basic and straightforward graphical interface. All game logic is written in Python.
